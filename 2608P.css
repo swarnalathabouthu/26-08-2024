@@ -1,0 +1,61 @@
+body{
+    width: 100vw;
+    height:auto;
+}
+/* 
+.mainclass{
+    display: grid;
+    grid-template-columns: repeat(5,1fr); 
+    gap: 20px;
+
+}
+.div{
+    background-color: crimson;
+}
+.one{
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+
+.two {
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 4;
+    grid-column-end: 6;
+}
+.three{
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start: 4;
+    grid-column-end: 6;
+}   */
+
+.mainclass{
+    background-color: aqua;
+}
+.divmain1{
+    background-color: gray;
+    margin:  5%;
+}
+
+.one{
+    /* display: inline; */
+    background-color: rgb(44, 224, 20);
+    /* margin: 1% 50% 1% 1%;
+    padding: 1% 30% 10% 2%; */
+}
+.two{
+    background-color: brown;
+    /* margin: 1% 1% 1% 44%; */
+    
+}
+.three{
+    background-color: pink;
+    /* margin: 10% 40% 1% 1%;
+    padding: 1% 5% 5% 2%; */
+}
+.four , .five , .six , .seven , .eight{
+    margin: 50% 10% 1% 5%;
+}
